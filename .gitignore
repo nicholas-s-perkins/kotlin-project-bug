@@ -1,0 +1,11 @@
+# Compiled class file
+/build
+*/build
+/.gradle
+*/.gradle
+/.idea
+*/.idea
+*.iml
+out/
+*/out/
+**/build/
